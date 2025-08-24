@@ -42,16 +42,19 @@ I love working on projects that combine **functionality with smooth UI/UX**.
   My personal website built with React and Firebase. Showcases projects, skills, and contact form.
   
 - **[CSS Animation](https://milon760.github.io/Dark-Premium-CSS-Animation/)**  
-  Lightweight web app using HTML, CSS & JS. Generate secure passwords and check strength instantly.
+  CSS Animation A creative project showcasing modern CSS animations and transitions. Features smooth effects, interactive elements, and a fully responsive design.
   
 
 ---
+
+### 📊 My GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=milon760&show_icons=true&theme=radical)](https://github.com/milon760)
 
 ---
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-milon-mia/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdmilonmiah205@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdmilonmiah2005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=about.me&logoColor=white)](https://personal-portfolio-milon.netlify.app)
 
 ---
