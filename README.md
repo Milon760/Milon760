@@ -12,7 +12,7 @@ I love working on projects that combine **functionality with smooth UI/UX**.
 - 🌱 I’m currently learning **advanced React patterns and animations**  
 - 💻 I enjoy building **projects that challenge my skills**  
 - 📫 Reach me at: [mdmilonmiah2005@gmail.com](mailto:mdmilonmiah2005@gmail.com)  
-- 🌍 Visit my portfolio: [https://personal-portfolio-milon.netlify.app](https://personal-portfolio-milon.netlify.app)  
+- 🌍 Visit my portfolio: [https://personal-portfolio-milon.netlify.app](https://md-milon-mia.netlify.app)  
 
 ---
 
